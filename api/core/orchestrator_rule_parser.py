@@ -1,9 +1,9 @@
 from typing import Optional
 
-from langchain import WikipediaAPIWrapper
 from langchain.callbacks.manager import Callbacks
 from langchain.memory.chat_memory import BaseChatMemory
 from langchain.tools import BaseTool, Tool, WikipediaQueryRun
+from langchain.utilities.wikipedia import WikipediaAPIWrapper
 from pydantic import BaseModel, Field
 
 from core.agent.agent_executor import AgentExecutor, PlanningStrategy, AgentConfiguration
