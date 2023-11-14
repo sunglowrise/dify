@@ -52,6 +52,63 @@ We provide the following free resources for registered Dify cloud users (sign up
 
 **7. Data labeling and improvement:**  Visually inspect AI app logs and improve data via labeling. Observe the AI's reasoning process to continuously enhance performance. (Coming soon)
 
+
+## Compare Dify with other AI platforms
+
+<table>
+
+<tr>
+<td><b>Features</b></td>
+<td><b>Dify</b></td>
+<td><b>OpenAI</b></td>
+<td><b>LangChain</b></td>
+</tr>
+
+<td>Prompt playground</td>
+<td>✅</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+
+<tr>
+<td>RAG</td>
+<td>✅</td>
+<td>❌</td>
+<td>🚧</td>
+</tr>
+
+<tr>
+<td>Open Source</td>
+<td>✅</td>
+<td>❌</td>
+<td>✅</td>
+</tr>
+<tr>
+
+<tr>
+<td>Other Models</td>
+<td>✅</td>
+<td>❌</td>
+<td>✅</td>
+</tr>
+
+<tr>
+<td>Tracing</td>
+<td>✅</td>
+<td>❌</td>
+<td>✅</td>
+</tr>
+
+<tr>
+<td>Good Looking</td>
+<td>✅</td>
+<td>❌</td>
+<td>❌</td>
+</tr>
+
+</table>
+
+
 ## Install the Community Edition
 
 ### System Requirements
